@@ -1,4 +1,3 @@
-
 const shipping = () => {
   return (
     <div>
@@ -6,5 +5,4 @@ const shipping = () => {
     </div>
   )
 }
-
 export default shipping
