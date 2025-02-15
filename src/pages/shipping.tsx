@@ -1,10 +1,10 @@
 
-import { ChangeEvent, useState } from "react"
 import { BiArrowBack } from "react-icons/bi";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { ChangeEvent } from "react";
 
 const shipping = () => {
-
 
   const navigate = useNavigate();
 
