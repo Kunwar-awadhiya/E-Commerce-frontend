@@ -1,3 +1,4 @@
+
 import { ChangeEvent, useState } from "react"
 import { BiArrowBack } from "react-icons/bi";
 import { useNavigate } from "react-router-dom";
@@ -79,6 +80,6 @@ const shipping = () => {
       </form>
     </div>
   )
-};
+}
 
 export default shipping;
