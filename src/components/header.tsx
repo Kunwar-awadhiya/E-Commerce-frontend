@@ -3,7 +3,7 @@ import { FaSearch , FaShoppingBag, FaSignInAlt, FaSignOutAlt, FaUser} from "reac
 import { useState } from "react";
 
 
-const user = {_id : "gdfg" , role : "admin"};
+  const user = {_id : "affd" , role : ""};
 
 
 const Header = () => {
