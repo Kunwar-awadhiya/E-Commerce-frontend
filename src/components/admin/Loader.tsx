@@ -1,3 +1,4 @@
+// define loader
 const Loader = () => {
   return (
     <section className="loader">
