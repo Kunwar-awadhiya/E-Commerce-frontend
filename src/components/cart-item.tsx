@@ -1,3 +1,4 @@
+// this is cart-item
 import { FaTrash } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
