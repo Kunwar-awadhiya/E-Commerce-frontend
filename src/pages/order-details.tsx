@@ -3,7 +3,7 @@
 const OrderDetails = () => {
   return (
     <div>
-      implement order details here
+      implement all orders details here 
     </div>
   )
 }
