@@ -58,7 +58,7 @@ const App = () => {
           </Route>         
 
 
-          {/** admin routes */}
+          {/** admin routes here*/}
           <Route
         //    element={
         //      <ProtectedRoute
