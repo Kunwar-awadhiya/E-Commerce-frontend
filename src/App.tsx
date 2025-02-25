@@ -36,7 +36,7 @@ const TransactionManagement = lazy(
 const App = () => {
   return (
     <Router>
-      {/*Header*/}
+      {/*Header part*/}
 
       <Header />
       <Suspense fallback={<Loader />}>
