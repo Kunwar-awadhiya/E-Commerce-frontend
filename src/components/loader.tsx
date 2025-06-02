@@ -1,4 +1,4 @@
-// this is loader
+// this is a loader
 
 const loader = () => {
   return (
