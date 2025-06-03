@@ -1,3 +1,5 @@
+// Orders component
+
 import { ReactElement, useState } from "react";
 import TableHOC from "../components/admin/TableHOC";
 import { Column } from "react-table";
