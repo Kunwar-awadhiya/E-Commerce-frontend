@@ -1,3 +1,5 @@
+// Product card component
+
 import { FaPlus } from "react-icons/fa";
 
 type ProductsProps = {
