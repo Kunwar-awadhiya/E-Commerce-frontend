@@ -1,3 +1,5 @@
+// login component
+
 import { useState } from "react"
 import { FcGoogle } from "react-icons/fc";
 
